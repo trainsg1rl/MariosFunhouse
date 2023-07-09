@@ -79,3 +79,8 @@ UNUSED static const u64 binid_17 = 17;
 
 #include "koopa_shell/model.inc.c"
 UNUSED static const u64 binid_18 = 18;
+
+#include "doopla/model.inc.c"
+#include "doopla/anims/data.inc.c"
+#include "doopla/anims/table.inc.c"
+UNUSED static const u64 binid_19 = 19;
